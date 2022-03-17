@@ -7,7 +7,7 @@
     min-height: 400px;
     background-image: url("https://images.unsplash.com/photo-1616341316676-fb436b96f99a");
     background-color: #111;
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
   }
   
